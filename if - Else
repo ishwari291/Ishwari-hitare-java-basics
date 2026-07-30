@@ -1,0 +1,10 @@
+public class IFElseExample {
+ public statics void main (String[] args)
+    int number = 7;
+
+if (number % 2 == 0) {
+       system.out.println("Even Number");
+} else {
+        system.out.println("Odd Number");
+  }
+}
